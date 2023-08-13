@@ -4,20 +4,18 @@ const valoracionPeliculas = (valoracion) =>{
         case "Muy mala":
             console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
             break;
-        case "Muy mala":
-            console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
+        case "Mala":
+            console.log("Calificaste la película como Mala. Lo lamentamos mucho.");
             break;
-        case "Muy mala":
-            console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
+        case "Mediocre":
+            console.log("Calificaste la película como Mediocre.  Gracias por su feedback.");
             break;
-        case "Muy mala":
-            console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
+        case "Buena":
+            console.log("Calificaste la película como Buena.");
             break;
-        case "Muy mala":
-            console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
+        case "Muy buena":
+            console.log("Calificaste la película como Muy buena.");
             break;
-        case "Muy mala":
-            console.log("Calificaste la película como Muy Mala. Lo lamentamos mucho.");
             break;
         default:
             console.log("Ingresaste un valor invalido");
